@@ -11,6 +11,7 @@
  I'm a passionate software developer with experience in web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and a journey into the world of coding.
 
 ## About Me
+🎓  Pursuing Master's degree in Computer Science and Engineering.
 🎓 Bachelor's degree in Computer Science and Engineering with a CGPA of 8.27.
 🌐 Full Stack Intern with experience in Python.
 💻 Software Trainee specializing in interactive applications.
