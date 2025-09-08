@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/kalam2007?logo=github&style=for-the
 
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/irfan9161)
+- [LinkedIn] https://www.linkedin.com/in/abdul-kalam-7810aa1bb
 - [Email](abdulkalam27102001@gmail.com) abdulkalam27102001@gmail.com
 
 Feel free to explore my repositories and reach out for any inquiries or collaboration opportunities. Happy coding! 🚀
