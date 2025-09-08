@@ -16,7 +16,7 @@
 🌐 Full Stack Intern with experience in Python.
 💻 Software Trainee specializing in interactive applications.
 - 🌟 My Tech Stack:
-- Languages: Python, SQL, JavaScript
+- Languages: Python,Data Analyst ,SQL, Power BI, Tableau 
 - Frameworks: Django,
 - Tools & Platforms: Git
 - Databases: MySQL, MongoDb
