@@ -2,7 +2,7 @@
 <h4>A developer | Python Developer </h4>
  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;&center=true&width=400&height=50"></a>
 
- - 🔭 I’m currently working on a Python Project
+ - 🔭 I’m currently working on a Python Project and Data Analyst Project.
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology 
 - 📫 How to reach me: abdulkalam27102001@gmail.com
