@@ -11,12 +11,12 @@
  I'm a passionate software developer with experience in web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and a journey into the world of coding.
 
 ## About Me
-🎓  Pursuing Master's degree in Computer Science and Engineering.
+🎓   Master's degree in Computer Science and Engineering with a CGPA of 9.30
 🎓 Bachelor's degree in Computer Science and Engineering with a CGPA of 8.27.
 🌐 Full Stack Intern with experience in Python.
 💻 Software Trainee specializing in interactive applications.
 - 🌟 My Tech Stack:
-- Languages: Python,Data Analyst ,SQL, Power BI, Tableau 
+- Languages: Python,Data Analyst, Power BI, Tableau 
 - Frameworks: Django,
 - Tools & Platforms: Git
 - Databases: MySQL, MongoDb
